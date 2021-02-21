@@ -1,5 +1,5 @@
 # **Growth Mindset**
-## Dream Big. Start Small. But most of all SART
+## Dream Big. Start Small. But most of all START
 ![success](https://www.roliedema.com/images/success-iceberg.jpg)
 
 Dear Readers 
