@@ -1,5 +1,6 @@
-# **Growth Mindset**
-## Dream Big. Start Small. But most of all START
+# **_G r o w t h M i n d s e t_**
+
+## Dream Big. Start Small. But Most of all START
 ![success](https://www.roliedema.com/images/success-iceberg.jpg)
 
 Dear Readers 
@@ -10,6 +11,8 @@ There is a saying by _Thomas Jefferson_:
 >"**I Find That The Harder I Work, The More Luck I Seem To Have**"
 
 In another words, growth mindset is changing the fixed mind you have to a dynamic mide that have tha ability to develop.
+
+I will share my story as an example to understaning what does MindSet means.
 
 In my story when I graduated I find out that the wrold isn't that easy it is very hard to follow, and the lockdown cames out and everything was depressing so; i started to losing hope in making difference and my life was to pass days without any touchable improvment.
 but while searching i find out many usefull web sites that conain many online courses with great topics, so day by day I started to challenging myself to learn at least one new thing.
