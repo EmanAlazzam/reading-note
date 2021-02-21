@@ -24,7 +24,7 @@ First you need to challenge yourself to learn, Then you need to focus and avoid 
 In the end I want to remind myself and others to:
 * Keep the hard working you never know what the future will brings to you  
 * Even if you face some problems, I'm telling you that you will find the solutions from the porblem themselfs
-* Do not lose hope
+* Do not lose hope.
 **And Remember Winning Doesn't Always Mean Being First. Winning Means You are Doing Better Than You Have Done Before.** 
 
 
