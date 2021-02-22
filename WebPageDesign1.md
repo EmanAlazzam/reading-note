@@ -24,6 +24,18 @@ THERE ARE A LOT Of commands for CSS and to figure this out you need a long time 
 2. The CSS id Selector: The id selector uses the id attribute of an HTML element to select a specific element.
 3. The CSS class Selector: The class selector selects HTML elements with a specific class attribute.
 
+CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
+## **COLORS**
 
+For Ex: Background Color
 
+background-color command
+body {
+background-color: rgb(200,200,200);}
+
+You can add the color by: Name *MediumAquaMarine*, Hex Codes *#66cdaa*, RGB Values *rgb(102,205,17)*, which all refer to the same color 
+
+![MediumAquaMarine](https://www.colorhexa.com/66ddaa.png)
+
+Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 
