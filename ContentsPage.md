@@ -7,7 +7,7 @@ I hope that you will find my notes very FUN.
 * **MARKDOWN** 
 [Markdown](https://emanalazzam.github.io/reading-note/markdown)
 * **GROWTHMINDSET** 
-[Growthmaindset](https://emanalazzam.github.io/reading-note/README)
+[Growthmaindset](https://emanalazzam.github.io/reading-note/)
 * **GITHUB** 
 [GitHub](https://emanalazzam.github.io/reading-note/GitHub)
 * **GIT** 
