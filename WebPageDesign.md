@@ -11,7 +11,7 @@ The web server then sends the page you requested back to your web browse.
 
 ## So how does the web page build UP?
 
-To understand the process you need to know what **HTML** and what is **CSS**?
+To understand the process you need to know what **HTML** first?
 
 If you typed on yor keyboard **ctrl+shift+I** it will open on the left a side page has a very weird text language this text is called HTML. HTML Uses Elements
 to Describe the Structure of Pages. 
@@ -25,23 +25,6 @@ There are three types of tages
 * opening tages <p>
 * closing tages </p>
 * self closing tages
-
-The CSS stands for Cascading Style Sheets, which is describes how HTML elements are to be displayed on screen, paper, or in other media
-CSS saves a lot of work. It can control the layout of multiple web pages all at once.
-
-![HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjkh1y-kZ6205TKw-aDR6rAN6RLnjIkbwdDA&usqp=CAU)
-
-**Understanding CSS: Thinking Inside the Box**
-
-## **There are some characters that are used in and reserved by HTML code**.
-The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element. CSS Associates Style rules with HTML elements.
-CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. 
-A CSS rule contains two parts: a selector and a declaration. CSS properties affect how elements are displayed
-
-Therefore, if you want these characters to appear on your page you need to use what are termed "escape" characters (also known as escape codes or entity references). For example, to write a left angled bracket, you can use either &lt; or &#60;. For an ampersand, you can use either &amp; or &#38;.
-There are also special codes that can be used to show symbols such as copyright and trademark, currency symbols, mathematical characters, and some punctuation marks. For example, if you want to include a copyright symbol on a web page you can use either &copy; or &#169;.
-When using escape characters, it is important to check the page in your browser to ensure that the correct symbol shows up. 
-This is because some fonts do not support all of these characters and you might therefore need to specify a different font for these characters in your CSS code.
 
 ## **Traditional HTML Layouts**
 
