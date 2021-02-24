@@ -2,7 +2,7 @@
 
 comparison operations: 
 
-(loops)[https://blog.discmakers.com/wp-content/uploads/2017/08/Music-With-Loops-Social.jpg]
+![loop](https://blog.discmakers.com/wp-content/uploads/2017/08/Music-With-Loops-Social.jpg)
 
 
 ## evaluating condition
