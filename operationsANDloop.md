@@ -1,6 +1,10 @@
 # OPERATIONS AND LOOPS
 
 comparison operations: 
+
+!(loops)[https://blog.discmakers.com/wp-content/uploads/2017/08/Music-With-Loops-Social.jpg]
+
+
 ## evaluating condition
 
 you can evaluate a situation by camparing one value in the script to what you expect it might be. the result will be boolean:true or fuls.

@@ -1,15 +1,14 @@
+# **How Does the HTML and CSS work together to create a WEB PAGE?
 
-
-## **How Does the HTML and CSS work together to create a WEB PAGE?
-
-Now It's time to see how to desing the presentation of the web page.
+_Now It's time to see how to desing the presentation of the web page.
 for the same **ctrl+shift+I** it's not only HTML it's also contain a CSS writing, which you can say that it is overlapped with HTML. 
 The CSS stands for Cascading Style Sheets, which is describes how HTML elements are to be displayed on screen, paper, or in other media
-CSS saves a lot of work. It can control the layout of multiple web pages all at once.
+CSS saves a lot of work. It can control the layout of multiple web pages all at once._
 
 ![HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjkh1y-kZ6205TKw-aDR6rAN6RLnjIkbwdDA&usqp=CAU)
 
 **Understanding CSS: Thinking Inside the Box**
+
 ## **There are some characters that are used in and reserved by HTML code**.
 The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element. CSS Associates Style rules with HTML elements.
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. 
