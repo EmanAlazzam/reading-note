@@ -1,6 +1,6 @@
 # JAVASCRIPT
 
-**HOW JAVASCRIPT WEB PAGES MORE INTERACTIVE! AND FUN!**
+**HOW DOES JAVASCRIPT MAKE WEB PAGES MORE INTERACTIVE! AND FUN!**
 Javascript allow you to make web pages more interactive by accessing and modifying the content and markuo used in a web page while it is being viewed in the browser.
 * ACCESS CONTENT You can use JavaScript to select any element, attribute, or text from an HTML page.
 * MODIFY CONTENT You can use JavaScript to add elements, attributes, and text to the page, or remove them.
